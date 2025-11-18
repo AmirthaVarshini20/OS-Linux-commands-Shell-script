@@ -62,7 +62,8 @@ cmp file1 file2
 
 comm file1 file2
  ## OUTPUT
-![image](https://github.com/user-attachments/assets/d80adeab-e5bd-45d7-ba1a-88b4b3f070d6)
+![WhatsApp Image 2025-11-18 at 9 24 20 PM](https://github.com/user-attachments/assets/90ddd296-05a6-4fb7-a6bd-f26121bb54f9)
+
 
  
 diff file1 file2
@@ -109,7 +110,8 @@ cut -d "|" -f 1 file22
 
 cut -d "|" -f 2 file22
 ## OUTPUT
-<img width="423" height="118" alt="image" src="https://github.com/user-attachments/assets/38237bb3-cf7c-4e67-a807-517a6901bde9" />
+<img width="440" height="130" alt="image" src="https://github.com/user-attachments/assets/81c96812-d582-42b1-9531-23c7a6123f2d" />
+
 
 
 
